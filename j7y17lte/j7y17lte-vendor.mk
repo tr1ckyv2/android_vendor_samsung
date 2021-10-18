@@ -72,11 +72,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7y17lte/proprietary/lib/lib_SamsungRec_06003.so:system/lib/lib_SamsungRec_06003.so \
     vendor/samsung/j7y17lte/proprietary/lib/lib_SamsungVAD_v01009.so:system/lib/lib_SamsungVAD_v01009.so \
     vendor/samsung/j7y17lte/proprietary/lib/lib_SoundAlive_3DPosition_ver202.so:system/lib/lib_SoundAlive_3DPosition_ver202.so \
-    vendor/samsung/j7y17lte/proprietary/lib/lib_SoundAlive_SRC384_ver300.so:system/lib/lib_SoundAlive_SRC384_ver300.so \
+    vendor/samsung/j7y17lte/proprietary/lib/lib_SoundAlive_SRC384_ver320.so:system/lib/lib_SoundAlive_SRC384_ver320.so \
     vendor/samsung/j7y17lte/proprietary/lib/lib_SoundAlive_play_plus_ver127a.so:system/lib/lib_SoundAlive_play_plus_ver127a.so \
     vendor/samsung/j7y17lte/proprietary/lib/lib_SoundBooster_ver800.so:system/lib/lib_SoundBooster_ver800.so \
     vendor/samsung/j7y17lte/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
-    vendor/samsung/j7y17lte/proprietary/lib/android.hardware.radio@1.0.so:system/lib/android.hardware.radio@1.0.so \
+    vendor/samsung/j7y17lte/proprietary/lib/android.hardware.radio@1.2.so:system/lib/android.hardware.radio@1.2.so \
     vendor/samsung/j7y17lte/proprietary/lib/android.hidl.base@1.0.so:system/lib/android.hidl.base@1.0.so \
     vendor/samsung/j7y17lte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/j7y17lte/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
